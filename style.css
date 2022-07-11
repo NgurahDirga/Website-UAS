@@ -1,0 +1,28 @@
+
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #e2edff;
+}
+
+#galeri {
+    background-color: #e2edff   
+}
+
+#kontak ul {
+    list-style: none;
+}
+
+#kontak ul li {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.imageup {
+    display: inline-block;
+}
